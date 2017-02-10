@@ -1,0 +1,26 @@
+{
+  "name": "silverbarsmarketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^0.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoldcounty/silverbarsmarketplace.git"
+  },
+  "author": "Rob Lone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theoldcounty/silverbarsmarketplace/issues"
+  },
+  "homepage": "https://github.com/theoldcounty/silverbarsmarketplace#readme"
+}
