@@ -1,8 +1,7 @@
 {
   "name": "silverbarsmarketplace",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "node": "^0.0.0"
   },
@@ -11,7 +10,8 @@
     "mocha": "^3.2.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/theoldcounty/silverbarsmarketplace/issues"
   },
-  "homepage": "https://github.com/theoldcounty/silverbarsmarketplace#readme"
+  "homepage": "https://github.com/theoldcounty/silverbarsmarketplace#readme",
+  "description": ""
 }
