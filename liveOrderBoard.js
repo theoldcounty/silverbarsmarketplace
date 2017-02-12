@@ -17,8 +17,7 @@ module.exports = function() {
         this.orders.push(this.anOrderWith(userId, quantity, price, orderType));
     }
 
-    this.summary = function() {        
-        //_order by price
+    this.summary = function() {
         // use slice() to copy the array and not just make a reference
         var summaries = this.orders.slice(0);
         
